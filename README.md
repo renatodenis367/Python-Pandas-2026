@@ -41,3 +41,13 @@ This repository contains data analysis and manipulation exercises focused on usi
 - Developed the ability to clean and transform raw datasets into structured, usable formats.
 - Learned how to extract meaningful insights from data using filtering, aggregation, and visualization techniques.
 - Built a strong foundation for future data analysis and data science projects using Python.
+
+## COLAB links:
+
+  https://colab.research.google.com/drive/11BfeSk8KT5UicOySxYP01BZBLAbVFPTf
+
+  https://colab.research.google.com/drive/1wXfs-LsMh9kGQ7Sma37h8UHxUDDtAISo
+
+  https://colab.research.google.com/drive/1TanRHL8umsdlQCKNFSEq6cW7sFwey_r0
+
+  https://colab.research.google.com/drive/1IFOfIngRCDmVP7Xc0G-ESxA07lMLEz7k
